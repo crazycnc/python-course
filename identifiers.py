@@ -1,0 +1,9 @@
+var1="shivam"
+print_to_this_screen="Green"
+Variable1="NOT AN ERROR"
+#techy$Adi="Not"#Error
+shivam_kumar="NOT AN ERROR"
+SK="shivam"
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="shivam"
+shivam="SHRISH"
+Shivam="SHRISH"
